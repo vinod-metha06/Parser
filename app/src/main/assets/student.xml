@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <name>Vinod</name>
+        <usn>2KL18CS114</usn>
+    </student>
+    <student>
+        <name>Vikas</name>
+        <usn>2KL18CS110</usn>
+    </student>
+    <student>
+        <name>Sagar</name>
+        <usn>2KL18CS068</usn>
+    </student>
+    <student>
+        <name>Vinayak</name>
+        <usn>2KL18CS112</usn>
+    </student>
+</students>
